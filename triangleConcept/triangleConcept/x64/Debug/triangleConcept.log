@@ -1,0 +1,8 @@
+﻿  triangleConcept.cpp
+C:\Users\v\source\repos\triangleConcept\triangleConcept\triangle.h(119,36): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('triangleConcept.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\v\source\repos\triangleConcept\triangleConcept\triangle.h(122,11): warning C4101: 'kokici': yerel değişken başvurusu kaldırıldı
+  ('triangleConcept.cpp' kaynak dosyası derleniyor)
+  
+  triangleConcept.vcxproj -> C:\Users\v\source\repos\triangleConcept\x64\Debug\triangleConcept.exe
